@@ -12,8 +12,10 @@ class AdminSeeder extends Seeder
     {
         User::create([
             'name' => 'Dear Haens',
-            'email' => 'admin@pustaka.com',
-            'password' => Hash::make('password123'), // Passwordnya: password123
+            // Mengambil email dari file .env
+            'email' => env('ADMIN_EMAIL', 'admin@pustaka.com'), 
+            // Mengambil password dari file .env
+            'password' => Hash::make(env('ADMIN_PASSWORD', 'password123')), 
         ]);
     }
 }
