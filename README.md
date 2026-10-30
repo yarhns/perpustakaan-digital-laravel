@@ -31,5 +31,5 @@ Sistem Informasi Manajemen Perpustakaan berbasis web yang dibangun menggunakan *
    
 ## 📸 Screenshot
 
-![Landing Page](URL_GAMBAR)
-![Dashboard](URL_GAMBAR)
+![Landing Page](<img width="1366" height="768" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/3fdcbb79-efd2-46c6-ab65-6cda899f3779" />)
+![Dashboard](<img width="1366" height="768" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/9c74860f-663b-445e-ae73-d01b699fb04e" />)
