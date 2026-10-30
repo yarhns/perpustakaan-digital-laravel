@@ -28,3 +28,11 @@ Sistem Informasi Manajemen Perpustakaan berbasis web yang dibangun menggunakan *
    ```bash
    git clone https://github.com/yarhns/perpustakaan-digital-laravel.git
    cd perpustakaan-digital-laravel
+   
+## 📸 Screenshot
+
+**Landing Page:**
+![Landing Page](https://github.com/user-attachments/assets/3fdcbb79-efd2-46c6-ab65-6cda899f3779)
+
+**Dashboard Admin:**
+![Dashboard](https://github.com/user-attachments/assets/9c74860f-663b-445e-ae73-d01b699fb04e)
