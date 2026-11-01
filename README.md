@@ -171,6 +171,5 @@ Berikut beberapa tampilan antarmuka Pustaka Digital.
 
 <div align="center">
 
-  <i>Dibuat dengan ❤️ menggunakan Laravel 12.</i>
 
 </div>
